@@ -1,0 +1,12 @@
+D:\Xadrez=Console\Xadrez=Console\obj\Debug\netcoreapp2.1\Xadrez=Console.AssemblyInfoInputs.cache
+D:\Xadrez=Console\Xadrez=Console\obj\Debug\netcoreapp2.1\Xadrez=Console.AssemblyInfo.cs
+D:\Xadrez=Console\Xadrez=Console\obj\Debug\netcoreapp2.1\Xadrez=Console.csproj.CoreCompileInputs.cache
+D:\Xadrez=Console\Xadrez=Console\bin\Debug\netcoreapp2.1\Xadrez=Console.deps.json
+D:\Xadrez=Console\Xadrez=Console\bin\Debug\netcoreapp2.1\Xadrez=Console.runtimeconfig.json
+D:\Xadrez=Console\Xadrez=Console\bin\Debug\netcoreapp2.1\Xadrez=Console.runtimeconfig.dev.json
+D:\Xadrez=Console\Xadrez=Console\bin\Debug\netcoreapp2.1\Xadrez=Console.dll
+D:\Xadrez=Console\Xadrez=Console\bin\Debug\netcoreapp2.1\Xadrez=Console.pdb
+D:\Xadrez=Console\Xadrez=Console\obj\Debug\netcoreapp2.1\Xadrez=Console.dll
+D:\Xadrez=Console\Xadrez=Console\obj\Debug\netcoreapp2.1\Xadrez=Console.pdb
+D:\Xadrez=Console\Xadrez=Console\obj\Debug\netcoreapp2.1\Xadrez=Console.genruntimeconfig.cache
+D:\Xadrez=Console\Xadrez=Console\obj\Debug\netcoreapp2.1\Xadrez=Console.csproj.AssemblyReference.cache
